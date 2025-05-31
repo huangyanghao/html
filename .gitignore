@@ -1,0 +1,13 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code project settings
+.vscode/
+
+# Ignore temporary or backup files
+*~
+*.bak
+
+# Ignore macOS folder metadata
+__MACOSX/
